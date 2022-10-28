@@ -1,5 +1,5 @@
 # Microservice Penyewaan Kendaraan
-Kode tersebut merupakan suatu implementasi dari penerapan arsitektur microservice penyewaan kendaraan. Dalam membangun arsitektur microservice kami menggunakan platform mysql sebagai databasenya serta menggunakan express js dan laravel sebagai kerangka kerja dalam membuat aplikasi microservice ini.
+Kode tersebut merupakan suatu implementasi dari penerapan arsitektur microservice penyewaan kendaraan. Dalam membangun arsitektur microservice ini kami menggunakan platform mysql sebagai databasenya serta menggunakan express js dan laravel sebagai kerangka kerja dalam membuat aplikasi microservice ini.
 
 ## Anggota Kelompok
 
